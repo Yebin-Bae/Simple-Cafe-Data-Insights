@@ -1,14 +1,17 @@
 # Simple-Cafe-Data-Insights
-This is a beginner-friendly data analytics project using Excel and Python.
-This project analyses cafe orders and revenue trends across different product categories.
+Welcome to Simple Cafe Data Insights, a beginner-friendly data analysis project based on a fictional cafe's order history.
+This project explores how a small cafe gain meaningful business insights using **Excel**, **Python (Pandas & Matplotlib)**, and **data visualisation techniques**.
 
-# Key Features
-- Sample data creation using Excel formulas.
-- Pivot Table summary (in Excel).
-- Visualisation using Pyhton (matplotlib) and Excel charts.
+# Project Goals
+- Understand customer purchasing behaviour.
+- Analyse categorised revenue trends.
+- Identify best-selling menu.
+- Visualise time-based sales trends.
 
 # Tools used
-- Microsoft Excel
-- Formulas: 'RANDBETWEEN', 'IF', 'TEXT', 'VLOOKUP', etc.
-- Python (pandas, matplotlib)
+- **Microsoft Excel**: Sample data creation, Pivot tables, charts, formula-based analysis.
+- **Python**: Pandas, visualisation with Matplotlib.
+
+##Sample Visualisations
+
 
