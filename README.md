@@ -17,3 +17,20 @@ This project explores how a small cafe gain meaningful business insights using *
 |-------------|------------------------|
 | ![Sales per Day](Sales%20per%20Day.png) | ![Revenue by Category](Revenue%20by%20Category.png) |
 
+## Key Insights
+* Daily Sales Trends
+    - Tuesday had the lowest toatal sales, with #136.
+    - Saturday ($497.5) and Sunday ($522.5) recorded the highest sales during the week.
+    - This pattern indicates that weekends are the most profitable days for this cafe.
+* Revenue by Category (Excel-based)
+    - Coffee generated the highest revenue of $1,238.5
+    - Desserts followed with $575
+    - Tea had the lowest revenue: $382.5
+* Python-based Analysis
+    - Although slight differences exist bue to the use of RANDBETWEEN() Formula generation in Excel, both analyses confirm the same trend:
+  Coffee is the best selling category, tea is the least performing category.
+    - Similarly, weekend sales are consistently higher, with Tuesday remaining the lowest day.
+## Business Recommendations based on Analysis
+
+  
+
