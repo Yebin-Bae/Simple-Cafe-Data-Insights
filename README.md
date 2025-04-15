@@ -1,15 +1,14 @@
 # Simple-Cafe-Data-Insights
-This is a beginner-friendly project that simulates customer orders in a fictional cafe setting using MS Excel.
-# Tools&Language
+This is a beginner-friendly data analytics project using Excel and Python.
+This project analyses cafe orders and revenue trends across different product categories.
+
+# Key Features
+- Sample data creation using Excel formulas.
+- Pivot Table summary (in Excel).
+- Visualisation using Pyhton (matplotlib) and Excel charts.
+
+# Tools used
 - Microsoft Excel
 - Formulas: 'RANDBETWEEN', 'IF', 'TEXT', 'VLOOKUP', etc.
-- VSCode
-- Python
+- Python (pandas, matplotlib)
 
-## Features
-- Random order generation per day
-- Menu & Time auto-assignment
-- Excel-only implementaion
-
-## Use Case
-Perfect for beginners who want to simulate data, practice analysis, or create dashboards in Excel.
