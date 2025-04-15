@@ -1,8 +1,10 @@
 # Simple-Cafe-Data-Insights
 This is a beginner-friendly project that simulates customer orders in a fictional cafe setting using MS Excel.
-# Tools 
+# Tools&Language
 - Microsoft Excel
 - Formulas: 'RANDBETWEEN', 'IF', 'TEXT', 'VLOOKUP', etc.
+- VSCode
+- Python
 
 ## Features
 - Random order generation per day
