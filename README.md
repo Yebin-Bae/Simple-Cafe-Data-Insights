@@ -12,6 +12,7 @@ This project explores how a small cafe gain meaningful business insights using *
 - **Microsoft Excel**: Sample data creation, Pivot tables, charts, formula-based analysis.
 - **Python**: Pandas, visualisation with Matplotlib.
 
-##Sample Visualisations
-
+## Sample Visualisations
+![Sales per Day](Sales per Day.png)
+![Revenue by Category](Revenue by Category.png)
 
