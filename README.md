@@ -13,7 +13,7 @@ This project explores how a small cafe gain meaningful business insights using *
 - **Python**: Pandas, visualisation with Matplotlib.
 
 ## Sample Visualisations
-| Daily Sales | Category-wise Revenue |
+| Daily Sales | Revenue by Category |
 |-------------|------------------------|
 | ![Sales per Day](Sales%20per%20Day.png) | ![Revenue by Category](Revenue%20by%20Category.png) |
 
