@@ -16,12 +16,12 @@ For more accuracy, the sample data assumes the cafe operates daily from 6:00 AM 
 - **Microsoft Excel**: Sample data creation, Pivot tables, charts, formula-based analysis.
 - **Python**: Pandas, visualisation with Matplotlib.
 
-## Sample Visualisations
+# Sample Visualisations
 | Daily Sales | Revenue by Category |
 |-------------|------------------------|
 | ![Sales per Day](Sales%20per%20Day.png) | ![Revenue by Category](Revenue%20by%20Category.png) |
 
-## Key Insights
+# Key Insights
 * Daily Sales Trends
     - Tuesday had the lowest toatal sales, with #136.
     - Saturday ($497.5) and Sunday ($522.5) recorded the highest sales during the week.
@@ -35,7 +35,7 @@ For more accuracy, the sample data assumes the cafe operates daily from 6:00 AM 
   Coffee is the best selling category, tea is the least performing category.
     - Similarly, weekend sales are consistently higher, with Tuesday remaining the lowest day.
       
-## Business Recommendations based on Analysis
+# Business Recommendations based on Analysis
 Based on the insights from the dataset, here are four key strategies to improve the cafe's performance and revenue:
 
 * Tuesday Moring Set Promotion
