@@ -38,7 +38,7 @@ For more accuracy, the sample data assumes the cafe operates daily from 6:00 AM 
 # Business Recommendations based on Analysis
 Based on the insights from the dataset, here are four key strategies to improve the cafe's performance and revenue:
 
-* Tuesday Moring Set Promotion
+* Tuesday Morning Set Promotion
    - By offering a Coffee (only limited coffee menu) + Scone at a discounted price during morning hours, attract students and workers to increase sales on the lowest-performing day of the week.
    - Review total sales for the next three months to determine whether the business should keep this promotion or develop other strategies.
 * Best & Worst Sellers Review
